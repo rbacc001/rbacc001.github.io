@@ -1,0 +1,23 @@
+
+        body {
+            background-color:aliceblue;
+            text-align: center;
+        }
+
+        img {
+            border-radius: 50%;
+            width: 220px;
+            height: 250px;
+        }
+
+        h1 {
+            margin-top: 20px;
+        }
+
+        p {
+            margin-bottom: 20px;
+        }
+
+        a {
+            color: rgb(1, 0, 7);
+        }
